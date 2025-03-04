@@ -5,9 +5,9 @@ Este proyecto contiene un archivo de Excel con macros escritas en VBA para autom
 
 ## Estructura de Carpetas
 
-- `data/`: Datos utilizados en el proyecto.
-- `docs/`: Documentación y reportes.
-- `scripts/`: Scripts VBA y otros códigos.
+- `data`: Datos utilizados en el proyecto.
+- `docs`: Documentación y reportes.
+- `scripts`: Scripts VBA y otros códigos.
 - `Informe-Financiero-Automatizado.xlsm`: Archivo de Excel con macros.
 
 ## Instrucciones de Uso
