@@ -12,7 +12,7 @@ Este proyecto contiene un archivo de Excel con macros escritas en VBA para autom
 
 ## Instrucciones de Uso
 
-1. Descarga el archivo de Excel del repositorio.
+1. Descargue el archivo de Excel del repositorio.
 2. Abre el archivo en Microsoft Excel.
 3. Habilita las macros si es necesario.
 4. Sigue las instrucciones en la hoja de cálculo para ejecutar las macros.
