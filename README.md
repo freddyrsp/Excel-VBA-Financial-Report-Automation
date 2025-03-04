@@ -1,6 +1,7 @@
 # Excel-VBA-Financial-Report-Automation
 
 Este proyecto contiene un archivo de Excel con macros escritas en VBA para automatizar la emisión de los informes financieros
+permitiendo emitirlos en PDF y enviar de manera masiva a los diferentes destinatarios registrados utilizando gmail
 
 
 ## Estructura de Carpetas
